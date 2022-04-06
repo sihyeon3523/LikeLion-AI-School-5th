@@ -1,5 +1,4 @@
-# LikeLion-AI-School-5th
-멋쟁이사자차럼 AI SCHOOL 5기 
+# 멋쟁이사자차럼 AI SCHOOL 5기 
 
 ## SEMI PROJECT 1
 ### 분석 주제 
