@@ -10,4 +10,4 @@
 
 #### 분석 결과물
 - [SourceCode](https://github.com/sihyeon3523/LikeLion-AI-School-5th/tree/main/SEMI1_%EB%A9%8B%EC%82%AC%EB%B8%8C%EB%A0%88%EC%9D%B8/SEMI1_SourceCode)
-- 발표 자료
+- [발표 자료](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/SEMI1_%EB%A9%8B%EC%82%AC%EB%B8%8C%EB%A0%88%EC%9D%B8/SEMI1_LikelionBrain.pdf)
