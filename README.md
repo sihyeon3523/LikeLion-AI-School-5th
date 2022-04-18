@@ -24,4 +24,4 @@
 캐글 데이터 활용 타이타닉 생존자 예측
 
 ### 분석 결과물
-- [SourceCode]()
+- [SourceCode](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/Semi_Project2.ipynb)
