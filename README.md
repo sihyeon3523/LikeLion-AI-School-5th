@@ -6,7 +6,7 @@
 뉴스 토픽 분류 AI 모델 개발 및 적용
 
 #### 분석 결과물
-= [Model Code]
+- [Model Code]
 - [Service Code]
 
 ### SEMI PROJECT 2 (22.04.14 ~ 22.04.18)
