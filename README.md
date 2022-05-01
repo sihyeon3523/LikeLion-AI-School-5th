@@ -7,7 +7,8 @@
 
 #### 분석 결과물
 - [Model Code]
-- [Service Code]
+- [Service Code](https://github.com/sihyeon3523/LikeLion-AI-School-5th/tree/main/Mid_Project/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80)
+- [분석 발표자료]
 <br>
 
 ### SEMI PROJECT 2 (22.04.14 ~ 22.04.18)
