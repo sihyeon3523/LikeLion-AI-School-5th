@@ -12,3 +12,8 @@
 - [Service Code](https://github.com/sihyeon3523/LikeLion-AI-School-5th/tree/main/Mid_Project/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80)
 
 
+#### 기여 부분
+- 프로젝트 팀장 – 일정 관리, 회의록 관리 
+- 한자 및 불용어 전처리 
+= t-SNE 시각화 및 결과 해석 
+- Streamlit 과 웹 스크래핑, pkl 생성을 통한 서비스 웹 페이지 제작 
