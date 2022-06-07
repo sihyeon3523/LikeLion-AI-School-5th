@@ -13,6 +13,7 @@
 22.06.02 ~ 2022.06.03 (일)
 #### 분석 주제
 혐오 표현 탐지 모델 개발
+![web](https://user-images.githubusercontent.com/49083528/172390677-707c2452-2701-4644-b870-9e90ce95aef8.gif)
 
 #### 분석 결과물
 - [분석 발표자료](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/Mid_Project/5%ED%8C%80_%ED%8C%8C%EC%9B%8C%EB%A0%88%EC%9D%B8%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
@@ -26,6 +27,8 @@
 22.05.19 ~ 22.05.31 (9일)
 #### 분석 주제
 사용자 감성분석을 활용한 음악 추천 서비스
+![서비스시연](https://user-images.githubusercontent.com/49083528/172390597-58411f6a-0f1c-408f-9520-5305a88c4f55.gif)
+
 
 #### 분석 결과물
 - [분석 발표자료](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/Mid_Project/5%ED%8C%80_%ED%8C%8C%EC%9B%8C%EB%A0%88%EC%9D%B8%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
