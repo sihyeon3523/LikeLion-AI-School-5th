@@ -5,7 +5,34 @@
 3. [프로젝트2. 타이타닉 생존자 예측](#SEMI-PROJECT-2)
 4. [프로젝트3. 뉴스 토픽 분류 AI 모델 개발 및 적용](#Mid-Project)
 5. [프로젝트4. 신용카드 사용자 연체 예측](#SEMI-PROJECT-3)
+6. [프로젝트5. 사용자 감성분석을 활용한 음악 추천 서비스](#Final-Project)
+7. [프로젝트6. 혐오 표현 탐지 모델 개발](#Datathon)
 
+### Datathon
+#### 기간 
+22.06.02 ~ 2022.06.03 (일)
+#### 분석 주제
+혐오 표현 탐지 모델 개발
+
+#### 분석 결과물
+- [분석 발표자료](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/Mid_Project/5%ED%8C%80_%ED%8C%8C%EC%9B%8C%EB%A0%88%EC%9D%B8%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [Model Code](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/Mid_Project/5%ED%8C%80_%ED%8C%8C%EC%9B%8C%EB%A0%88%EC%9D%B8%EC%A1%B0_%EC%B5%9C%EC%A2%85%EC%BD%94%EB%93%9C.ipynb)
+- [Service Code](https://github.com/sihyeon3523/LikeLion-AI-School-5th/tree/main/Mid_Project/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80)
+
+<br>
+
+### Final Project
+#### 기간 
+22.05.19 ~ 22.05.31 (9일)
+#### 분석 주제
+사용자 감성분석을 활용한 음악 추천 서비스
+
+#### 분석 결과물
+- [분석 발표자료](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/Mid_Project/5%ED%8C%80_%ED%8C%8C%EC%9B%8C%EB%A0%88%EC%9D%B8%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [Model Code](https://github.com/sihyeon3523/LikeLion-AI-School-5th/blob/main/Mid_Project/5%ED%8C%80_%ED%8C%8C%EC%9B%8C%EB%A0%88%EC%9D%B8%EC%A1%B0_%EC%B5%9C%EC%A2%85%EC%BD%94%EB%93%9C.ipynb)
+- [Service Code](https://github.com/sihyeon3523/LikeLion-AI-School-5th/tree/main/Mid_Project/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80)
+
+<br>
 
 ### SEMI PROJECT 3 
 #### 기간 
