@@ -12,7 +12,7 @@
 #### 기간 
 22.06.02 ~ 2022.06.03 (일)
 #### 분석 주제
-혐오 표현 탐지 모델 개발
+[혐오 표현 탐지 모델 개발](https://github.com/sihyeon3523/hatred-stop)
 ![web](https://user-images.githubusercontent.com/49083528/172390677-707c2452-2701-4644-b870-9e90ce95aef8.gif)
 
 #### 분석 결과물
