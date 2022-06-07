@@ -4,7 +4,7 @@
 2. [Web Scrapping Study. 채용 정보 스크래핑](#웹-스크래핑-스터디)
 3. [Semi project 2. 타이타닉 생존자 예측](#SEMI-PROJECT-2)
 4. [Mid Project. 뉴스 토픽 분류 AI 모델 개발 및 적용](#Mid-Project)
-5. 
+5. [Mid Project. 뉴스 토픽 분류 AI 모델 개발 및 적용](#Mid-Project)
 
 
 ### SEMI PROJECT 3 (22.05.02 ~ 22.05.04 / 22.05.09 ~ 22.05.10: 10일)
