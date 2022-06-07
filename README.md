@@ -5,8 +5,8 @@
 3. [타이타닉 생존자 예측](#SEMI-PROJECT-2)
 4. [뉴스 토픽 분류 AI 모델 개발 및 적용](#Mid-Project)
 5. [신용카드 사용자 연체 예측](#SEMI-PROJECT-3)
-6. [프로젝트5. 사용자 감성분석을 활용한 음악 추천 서비스](#Final-Project)
-7. [프로젝트6. 혐오 표현 탐지 모델 개발](#Datathon)
+6. [사용자 감성분석을 활용한 음악 추천 서비스](#Final-Project)
+7. [혐오 표현 탐지 모델 개발](#Datathon)
 
 ### Datathon
 #### 기간 
